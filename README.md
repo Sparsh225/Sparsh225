@@ -10,10 +10,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 2-3 hours listening songs everyday.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sparsh225&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sparsh225&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 
 
@@ -27,6 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sparsh225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparsh225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/spa22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/spa22" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18147960/sparsh-rawat?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18147960/sparsh-rawat?tab=profile" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sparsh.rawat.581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sparsh.rawat.581" height="30" width="40" /></a>
+<a href="https://instagram.com/sparsh_bob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sparsh_bob" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/sparshrawat34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sparshrawat34" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
