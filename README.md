@@ -11,3 +11,10 @@
 - ⚡ Fun fact: I spend almost 2-3 hours listening songs everyday.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sparsh225&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sparsh225&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sparsh225)](https://github.com/anuraghazra/github-readme-stats)
