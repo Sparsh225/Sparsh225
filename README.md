@@ -8,7 +8,7 @@
 - 💬 Ask me about Java , python , mysql  or any tech related stuff
 - 📫 How to reach me: www.linkedin.com/in/spa22
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 2-3 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 1-3 hours listening songs everyday.
 
 
 
