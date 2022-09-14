@@ -1,6 +1,9 @@
-### Hi there , I'm Sparsh Rawat 👋
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+
+
+### Hi there , I'm Sparsh Rawat 👋
 
 - 🔭 I’m currently pursuing BTech in Computer Science
 - 🌱 I’m currently learning Cloud Computing
