@@ -1,5 +1,6 @@
 ### Hi there , I'm Sparsh Rawat 👋
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+">
 
 
 - 🔭 I’m currently pursuing BTech in Computer Science
