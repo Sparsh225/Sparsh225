@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh225&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh225" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sparsh225" target="blank"><img src="https://img.shields.io/twitter/follow/sparsh225?logo=twitter&style=for-the-badge" alt="sparsh225" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
