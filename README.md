@@ -25,7 +25,7 @@
 <h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh225&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh225" /> </p>
-<br></br>
+
 
 
 <p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
