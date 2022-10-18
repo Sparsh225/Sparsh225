@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with AWS and BlockChain
 - 💬 Ask me about Java , python , mysql  or any tech related stuff
-- 📫 How to reach me: https://mail.google.com/mail/u/0/#inbox
+- 📫 How to reach me: sparshrawat34@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 1-3 hours listening songs everyday.
 
