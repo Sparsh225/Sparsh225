@@ -10,7 +10,7 @@
 
 ### Hi there , I'm Sparsh Rawat 👋
 
-- 🔭 I’m currently pursuing BTech in Computer Science
+- 🔭 I’m currently pursuing BTech in Computer Science.
 - 🌱 I’m currently learning Cloud Computing
 - 🤔 I’m looking for help with AWS and BlockChain
 - 💬 Ask me about Java , python , mysql  or any tech related stuff
