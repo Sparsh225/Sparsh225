@@ -1,5 +1,6 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sparsh225&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh225" /> </p>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 
 
@@ -24,7 +25,7 @@
 
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sparsh225&label=Profile%20views&color=0e75b6&style=flat" alt="sparsh225" /> </p>
+
 
 
 
