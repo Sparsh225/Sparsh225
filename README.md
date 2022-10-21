@@ -28,9 +28,10 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
 <p align="left">
 
 
