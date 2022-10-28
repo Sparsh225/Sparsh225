@@ -33,25 +33,25 @@
 
 
 
+<div align="center">
+  
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Sparsh225&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
+  <br>
+  
+  <br>
+ </div>
 
+<div align="center">
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh225&show_icons=true&locale=en&layout=compact" alt="sparsh225" /></p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spa22) 
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh225&show_icons=true&locale=en&layout=compact" alt="sparsh225" /></p>
-<br></br>
-<br></br><br></br><br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparsh225&show_icons=true&locale=en" alt="sparsh225" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh225&" alt="sparsh225" /></p>
 
-
+ </div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -66,3 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/SparshRawat17" target="blank"><img src="https://img.shields.io/twitter/follow/SparshRawat17?logo=twitter&style=for-the-badge" alt="SparshRawat17" /></a> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spa22) 
+</p>
