@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently pursuing BTech in Computer Science.
 - 🌱 I’m currently learning Android Studio and bootstrap
-- 🤔 I’m looking for help with AWS and BlockChain
+- 🤔 I’m looking for help with BlockChain
 - 💬 Ask me about Java , python , mysql  or any tech related stuff
 - 📫 How to reach me: sparshrawat34@gmail.com
 - 😄 Pronouns: He/His
