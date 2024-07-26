@@ -11,10 +11,10 @@
 
 ### Hi there , I'm Sparsh Rawat 👋
 
-- 🔭 I’m currently pursuing BTech in Computer Science.
-- 🌱 I’m currently learning React js 
+- 🔭 completed BTech in Computer Science.
+- 🌱 I’m currently learning pyhton 
 - 🤔 I’m looking for help in BlockChain
-- 💬 Ask me about Java , python , mysql  or any tech related stuff
+- 💬 Ask me about Java , react js , mysql  or any tech related stuff
 - 📫 How to reach me: sparshrawat34@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 1-3 hours listening songs everyday.
